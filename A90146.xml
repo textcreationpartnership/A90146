@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A balm presented to these nations, England, Scotland, and Ireland to cure the wounds of the bleeding Protestants, and open the eyes of the deluded papists, that are ignorant of the truth ... or, A seasonable antidote against the errors of popery and pernitious [sic] doctrines of the Church of Rome ... By T.O. ...</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90146</idno>
+            <idno type="STC">Wing O31B</idno>
+            <idno type="STC">ESTC R42274</idno>
+            <idno type="EEBO-CITATION">36272440</idno>
+            <idno type="OCLC">ocm 36272440</idno>
+            <idno type="VID">150143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2233:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A balm presented to these nations, England, Scotland, and Ireland to cure the wounds of the bleeding Protestants, and open the eyes of the deluded papists, that are ignorant of the truth ... or, A seasonable antidote against the errors of popery and pernitious [sic] doctrines of the Church of Rome ... By T.O. ...</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.G.,</publisher>
+                  <pubPlace>[S.l.]</pubPlace>
+                  <date>[168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains added illustrated t.p.</note>
+                  <note>Signatures: A⁸, B⁴.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>Imperfect: stained, cropped, tightly bound, and with print show- through and loss of print.</note>
+                  <note>Attributed to Titus Oates by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Protestant authors.</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:150143:1" rendition="simple:additions"/>
+            <p>A <hi>BALM</hi> preſented to theſe Nations, <hi>England, Scotland,</hi> and <hi>Ireland,</hi>
+            </p>
+            <p>To Cure the Wounds of the Bleeding Proteſtants, and open the Eyes of the deluded Papiſts, that are Ignorant of the Truth, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>T. O.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of man</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:150143:2"/>
+            <pb facs="tcp:150143:2"/>
+            <p>A BALM, Preſented to theſe Nations, <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to Cure the Wounds of the Bleeding Proteſtants, and open the Eyes of the deluded Pa<g ref="char:EOLhyphen"/>piſts that are ignorant of the Truth.</p>
+            <p>Being, A Timely Warning to Proteſtants; OR, A Seaſonable Antidote againſt the Errors of <hi>POPERY</hi> AND Pernitious Doctrines of the Church of <hi>ROME;</hi> Wherein they are stated, and Learnedly Con<g ref="char:EOLhyphen"/>futed; plainly ſhewing the Deceitfulneſs and vanity of ſo fooliſh a Religion, when duly weighed and conſidered by the Word of God, and by what Cruelty, Fraud, and Ignorance it is upheld.</p>
+            <p>Together, With Prayers and Thangſgivings for our great deliverance from POPERY.</p>
+            <p>To which is added a Treatiſe of <hi>French-</hi>Perſecu<g ref="char:EOLhyphen"/>tion, or what Proteſtants may expect from Pa<g ref="char:EOLhyphen"/>piſts, if they get the power over us.</p>
+            <p>By <hi>T.O. D.D.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150143:3"/>
+            <pb n="1" facs="tcp:150143:3"/>
+            <head>A Warning to <hi>Proteſtants.</hi> &amp;c.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Pſal.</hi> CXXIV. <hi>Ver.</hi> 2. 3.</bibl>
+               <q>
+                  <l>If it had not been the Lord, who was on</l>
+                  <l>our ſide, when men roſe up againſt us:</l>
+                  <l>Then they had ſwallowed us up quick,</l>
+                  <l>when their wrath was kindled againſt us.</l>
+               </q>
+            </epigraph>
+            <p>
+               <hi>THough the</hi> Romaniſts, <hi>with many ſpecious pretences, have (eſpecially ſince the Reformation) endeavoured to prove the Verity and Validity of their Church; yet we no where find that they have propoſed any thing ſo material to that
+<pb n="2" facs="tcp:150143:4"/>
+point, but it has been either confuted or con<g ref="char:EOLhyphen"/>ſidered as a weak Pillar to ſupport a decaying and tottering Superſtructure: For I would fain be informed by any moderate Commu<g ref="char:EOLhyphen"/>nicant of the</hi> Romaniſts, <hi>from whence, or upon what account the Pope of</hi> Rome <hi>claims a Superiority or Headſhip? Or why the ac<g ref="char:EOLhyphen"/>knowledgment of the Catholick or Univer<g ref="char:EOLhyphen"/>ſal Church of Chriſt ſhould own any Infal<g ref="char:EOLhyphen"/>lible Head upon Earth? And ſince both the Diſputers and Writers of that Communi<g ref="char:EOLhyphen"/>ty, that term themſelves the</hi> Roman <hi>Catho<g ref="char:EOLhyphen"/>lick Church, have either waved it, as not to their purpoſe, or for ſome other end, equi<g ref="char:EOLhyphen"/>vocated with the Scriptures to ſupport a building upon a ſandy Foundation. Before I proceed to the main matter intended, I ſhall give ſome light into this affair.</hi>
+            </p>
+            <p>
+               <hi>It ſo happened that the</hi> Roman <hi>Empire having been divided into Eaſt and Weſt, the latter eſpecially was extreamly harraſſed by the barbarous Nations of the North, ſo that the Supream Power lay in that of the Eaſt, or</hi> Greek <hi>Empire; and although ſeveral Popes of</hi> Rome <hi>had oppoſed any ſole Head<g ref="char:EOLhyphen"/>ſhip, or Supremacy one over another, hol<g ref="char:EOLhyphen"/>ding all Biſhops equal in their Province or Dioceſs; yet</hi> Phocus <hi>General to the Eaſtern
+<pb n="3" facs="tcp:150143:4"/>
+Emperour</hi> Mauritius, <hi>having murthered this Emperour, his Empreſs and their Chil<g ref="char:EOLhyphen"/>dren, and for that diſpiſed and rejected by his own People, what does the then Pope of</hi> Rome <hi>do, but clap in with him, and the more to gain a Power or Advantage over the other Biſhops, by many flattering and in<g ref="char:EOLhyphen"/>ſinuating Letters, extol his proceedings. And amongſt others we find theſe Expreſſi<g ref="char:EOLhyphen"/>ons,</hi> viz. Let the Emperour <hi>Phocus</hi> live, and let the Angels clap their hands and rejoyce, that ſo worthy a Man, whoſe grateful Influence ſhines on the Biſhop of <hi>Rome,</hi> is advanced to the Throne of the Eaſtern world, by the eſpecial Providence of the Almighty: <hi>From which time. tho' by what unjuſt means I leave to the conſide<g ref="char:EOLhyphen"/>ration of the Reader,</hi> Rome <hi>dated her Spi<g ref="char:EOLhyphen"/>ritual Greatneſs, to fulfill the Propheſie of St.</hi> John <hi>in his Revelations,</hi> &amp;c. <hi>And as indeed it was founded upon blood and vio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nce, ſo has it been hitherto maintained, more than by any other ways or means, as by Racks and Tortures to ſuch as at any time began to inquire into the Authority of that Uſurpation. and ſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> their Errors. and by keeping the more un thinking part of thoſe that adhered to it, in the Region of Agno<g ref="char:EOLhyphen"/>rance</hi>
+               <pb n="4" facs="tcp:150143:5"/>
+and darkneſs, by blinding their un<g ref="char:EOLhyphen"/>derſtanding with fables, inſtead of real Truths, and placing the Traditions of Men inſtead of the ſacred Uerity of the wor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God; and when at any time, where they have a temporal power, inquiry is made <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their many lying wonders and feigned mi<g ref="char:EOLhyphen"/>racles, their ſuperſtitions in worſhip, errors and abſurd contradictions, the anſwer is, tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ought to believe, as their Church be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> believes, though indeed few of them them<g ref="char:EOLhyphen"/>ſelves know what ſhe does believe; and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this be refuſed, they are not only brand<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with the name of Hereticks, but in dang<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of their Lives, and many times expire <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> flames, by Racks and Tortures, or lan<g ref="char:EOLunhyphen"/>guiſhing and lingering deaths, which is t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> true mark of the Beaſt, of which St. <hi>Joh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſpeaks, <hi>viz.</hi> That kills all thoſe that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not receive his mark in their forehead, worſhip his Image. And this fatal exp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rience has taught the World, by the m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Maſſacres, unjuſt Wars, Burnings, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtations, poyſoning and ſtabbing of M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>narchs, to ſuch a degree, as has made <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Infidels bluſh to be outdone in Treacher<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Cruelty, and theſe meſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alling <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe, that with a complyance with the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:150143:5"/>
+laſting Goſpel, oppoſed the errors and un<g ref="char:EOLhyphen"/>warrantable Traditions of that Church; as their holding a Wafer, after Conſecration, to be a God, and no leſs than the ſecond perſon in the glorious Trinity, even our bleſſed Lord and Saviour Jeſus Chriſt, Eſ<g ref="char:EOLhyphen"/>ſential and Corporal, as well in Soul as in Body, with all the ſubſtantial parts of a Body, as he offered himſelf upon the Croſs, for the Redemption of the World.</p>
+            <p>The praying for the Dead, ſaying Moſſes for the deliverance of Souls out of Purgato<g ref="char:EOLhyphen"/>ry, attributing to the Uirgin <hi>Mary</hi> the Ho<g ref="char:EOLhyphen"/>nours only due to God himſelf, praying to Saints, adoring Relicks, conſecrated Can<g ref="char:EOLhyphen"/>dles, holy Roſes, <hi>Agnus Dei's</hi> and Con<g ref="char:EOLhyphen"/>feſſions to Men, with many other Fables and Fopperies, and for gain-ſaying theſe, have flowed a ſcarlet Sea of Blood, with which, as St. <hi>John</hi> ſays, <hi>I ſaw the Wo<g ref="char:EOLhyphen"/>man drunk with the blood of the Saints, and the Martyrs of Jeſus, and when I ſaw her I wondered with great admiration, Rev. 17. 6.</hi> And theſe were they whoſe Souls cry under the Altar; <hi>How long, how long, O God, Holy and Righteous, will it be e'er thou avenge our blood on thoſe that dwell on the Earth?</hi> And although as to
+<pb n="6" facs="tcp:150143:6"/>
+the firſt of theſe, our Saviour did declare at the eating the Paſſover, that the Bread and Wine were his Body and Blood, yet it then, and at all times appeared to be meant only figuratively and miſtically; for at the ſame time when the Bread was eaten, and the Wine drank, his Body remained the ſame as before, undiminiſhed and untouched, Uiſible and Corporal, both to be felt and underſtood; and what more confirms it, was his commanding his Diſciples, as of<g ref="char:EOLhyphen"/>ten as they did it, to do it in remembrance of him, till his coming, which an imply no<g ref="char:EOLhyphen"/>thing more, than to leave and ingraft more perfectly, the remembrance of his Crucifixi<g ref="char:EOLhyphen"/>on and Death, in the minds of his People and Church: for as the Paſſover, which he then eat, was a Type of him to keep us the remembrance and expectation of his coming in the mind of the <hi>Jews,</hi> ſo he changed the Miſterious Ceremony into a Sacramental Bread and Wine, to mind the Chriſtians, and to put them in a full aſſurance of ex<g ref="char:EOLhyphen"/>pecting his ſecond coming in Glory to judge the World. In many places of Scripture he calls himſelf a Uine, a Door, a Shepherd and the like, which are only miſtical and fi<g ref="char:EOLhyphen"/>gurative ſignifications: And St. <hi>John</hi> the
+<pb n="7" facs="tcp:150143:6"/>
+Baptiſt ſtiles him, the Lamb of god, come to take away the ſins of the World, <hi>&amp;c.</hi> And as for the Primitive Church, as they all along took it in no other ſence, than the Reformed Churches do at this day, <hi>viz.</hi> That in the bleſſed Sacrament, we only Spiritual, and by a lively and ſteadfaſt faith, eat and drink his Body and Blood. And to go a little farther in this matter, the Church of <hi>Rome,</hi> contrary even to our Saviours great command, and the uſe of the Primitive Churches, for up wards of a thouſand years, have taken away the Cup from the Laity, only allowing it to the Prieſts and Princes, and give us only theſe two ſilly Reaſons for it. Firſt, That the Laity are not ſanctified and fitly prepared for ſo Eſſential a part, as the Blood of Chriſt. And ſecondly, which is to Shouldir the de<g ref="char:EOLhyphen"/>ceſt, they bear them in hand, that receiving by a Tranſubſtantiation the intire Body in the Wafer, as fleſh, Bones, Sinews, <hi>&amp;c.</hi> They no doubt partake of the Blood. Like<g ref="char:EOLhyphen"/>wiſe, as for their giving the Cup to Princes, it is to get in favour with them; and in the ſecond place, have the advantage over them, if they refuſe to promote the Covetous and Ambitious ends of the Pope and his Clergy,
+<pb n="8" facs="tcp:150143:7"/>
+which fattally appeared in the Emperor <hi>Henry's</hi> being poyſoned by the Sacramental wine given him by a fryer: and the like done to King <hi>John</hi> of <hi>England</hi> by a Monk, and many other ſuch horrible und unparalelled Uillanies.</p>
+            <p>As for their Praying for the Dead, it is no where Warranted in Scripture, nor mentioned, unleſs in the <hi>Maccabees;</hi> where after a Battle, it was thought fit to Pray for the Souls of thoſe that were ſlain in the Caſtle; which in the ſtríoeeſt ſenſe, erceeded not good Wiſhes: And it was the Cuſtom of thoſe times to make Fune<g ref="char:EOLhyphen"/>ral Dration for thoſe that had deſerved well of their Country, or lived Piouſly and Uertuouſly, thereby to recommend their Memory to Poſterity, and Conſolate their Friends. It was uſed likewiſe in the Primitive Church, and is immitated by us in our Funeral SCRMONS: but this was never held by any, before the <hi>Roman</hi> Superſtition brought it in as a way gainful to get Monies, both from the Dying and their Relation: But how miſerable will that Man be that puts off the great concern of his Salvation, ground<g ref="char:EOLhyphen"/>ing it or this Error, in hopes of a de<g ref="char:EOLhyphen"/>liverance,
+<pb n="9" facs="tcp:150143:7"/>
+may eaſily be determined: for beyond the Grave there is no change of Eſtate, or hope of Reprieve; for there the words of the Wiſe Man are truly verified, <hi>viz: As the Tree falls ſo it lies; as Death leaves us in that ſtate, Judge<g ref="char:EOLhyphen"/>ment will aſſuredly find us.</hi> And as for the Middle Region they have lately diſ<g ref="char:EOLhyphen"/>covered between heaven and hell, it is new and fabulous, that no conſidering Man can conclude it ſet up for any other end than to Bug-bare fools and ignorant unthinking People; tho' it may indeed he called <hi>Purgatory,</hi> for it Purges ſome millions of Money in a year out of the Laity into the Purſes of the Clergy, be<g ref="char:EOLhyphen"/>ing the chief Branch of the <hi>Popes</hi> Spi<g ref="char:EOLhyphen"/>ritual Revenue: and tho' they hold their <hi>Maſſes</hi> can Redeem the ſuffering Souls from this place, yet the Wiſeſt of them were never yet able to tell where it is, or whether it be Local; nor indeed is it any where to be found or heard of, but in the <hi>Romiſh</hi> Church, for the Scripture allows no ſuch place; for there we find thoſe that have done well are pronounced to go into Eternal Joys; and thoſe that have done Ill into Eternal Torments.
+<pb n="10" facs="tcp:150143:8"/>
+It's true, they quote for their Authority, a paſſage in St. <hi>Peter,</hi> about Preaching to the Souls in Priſon, <hi>&amp;c.</hi> which accor<g ref="char:EOLhyphen"/>ding to the opinion of all Ages, makes nothing for their purpoſe.</p>
+            <p>They are contented to Pray for the Dead, but to the Dead; tho' as the Holy Prophet ſays, <hi>There is no Remembrance in the Grave,</hi> and altho' it's expreſſy forbidden and accounted flat Idolairy: for we by the word of God, are ſtrictly en<g ref="char:EOLhyphen"/>joyned to obſerve no Saint, nor Creature, nor Throne, Dominion nor Power; no Heatheniſh Deity, but only the true God in Jeſus Chriſt: <hi>Thou ſhalt Worſhip the Lord thy God, and him onely ſhalt thou ſerve, <hi>Exod.</hi> 20. And ſee thou do it not,</hi> ſays the Angel to St. <hi>John, I am thy fel<g ref="char:EOLhyphen"/>low Creature, Worſhip God, <hi>Rev.</hi> 22. 9.</hi> Tho' the <hi>Papiſts</hi> in this caſe, in the num<g ref="char:EOLhyphen"/>ber of their Saints, to whom they pay Divine Honours, even exceed the <hi>Pagans:</hi> nor do they ſpare to immitate them, in having their Titulars for Countries, as thus: The <hi>Pagans</hi> Worſhipped <hi>Appollus</hi> in <hi>Delphos, Jupiter</hi> in <hi>Creete, Minerva</hi> in <hi>Epheſns:</hi> And ſo the <hi>Papiſts</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Worſhip St. <hi>George,</hi> in <hi>Scotland</hi>
+               <pb n="11" facs="tcp:150143:8"/>
+St. <hi>Andrew,</hi> in <hi>Ireland</hi> St. <hi>Patrick,</hi> in <hi>France</hi> St. <hi>Dennis,</hi> in <hi>Spain</hi> St. <hi>James,</hi> at <hi>Millain</hi> St. <hi>Ambroſe,</hi> and at <hi>Venice</hi> St. <hi>Mark.</hi>
+            </p>
+            <p>The <hi>Pagans</hi> had for the Element of fire, <hi>Jupiter,</hi> for the <hi>Aire, Juno,</hi> for the Sea, <hi>Nep<g ref="char:EOLhyphen"/>tune,</hi> ſo the <hi>Papiſts</hi> have <hi>Agathus</hi> for the fire, <hi>Theadulus</hi> for the Tempeſts, St. <hi>Barbara</hi> for thunder, and St. <hi>Nicholas</hi> for the Sea.</p>
+            <p>The <hi>Pagans</hi> had ſeveral <hi>Titular</hi> Gods, for their Cattle and fruits, as <hi>Pon</hi> for the firſt, and <hi>Ceres</hi> for the laſt, as alſo <hi>Bacchus</hi> for their wind; ſo the <hi>Papiſts</hi> have for their wind <hi>Urbanus,</hi> once a drunken <hi>Prieſt, Jo<g ref="char:EOLhyphen"/>docus</hi> for their fruits Man, <hi>Debinas,</hi> for their ſheep, <hi>Eulogious</hi> for their horſes, and St. <hi>Anthony</hi> for their Piggs.</p>
+            <p>The <hi>Pagans</hi> had their <hi>Titular</hi> Gods, for ſeveral Profeſſions, as <hi>Apollow</hi> for Scho<g ref="char:EOLhyphen"/>lers, <hi>Mars</hi> for Soldiers, <hi>Vulcan</hi> for Smiths, <hi>Diana</hi> for Hunters, ſo the <hi>Papiſt</hi> have St. <hi>Gregory</hi> for Scholers, St. <hi>George</hi> for Sol<g ref="char:EOLhyphen"/>diers, St. <hi>Loy</hi> for Smiths, and St. <hi>Criſ<g ref="char:EOLhyphen"/>pin,</hi> for Shoomakers.</p>
+            <p>So again the <hi>Pagans</hi> had their Gods, to pray to in ſeveral diſeaſes, as to <hi>Apollow,</hi> for the Plague, <hi>Hercules</hi> for the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing-ſick<g ref="char:EOLhyphen"/>neſs,
+<pb n="12" facs="tcp:150143:9"/>
+               <hi>Lucina</hi> for woman in Child-Birth; and ſo the <hi>Papiſts</hi> have St. <hi>Rock</hi> for the Plague, St <hi>Petrenello</hi> for the Ague, <hi>Ap<g ref="char:EOLhyphen"/>polina</hi> for the Tooth-Ach, and <hi>Ariſaſtiacis,</hi> for the Head-Ache. To theſe both <hi>Pagans</hi> and <hi>Papiſts</hi> have builded Temples and Churches, errected, alters, ordained, Prieſts, appointed Feſtivals, ſet up Statues, and burned Lamps and Candles, by which we may ſee, they differ nothing in this point, and of this the Prophet <hi>Jeremy</hi> complains, when he ſays, why did the Land Periſh, and was burnt up like a Wilder<g ref="char:EOLhyphen"/>neſs, but becauſe the People walked after <hi>Baalam,</hi> which their Fathers taught them. And the <hi>Pſalmiſt</hi> ſays, walk not in the ways of your Fathers (and again) they follow the generation of their Fathers, which ſhall not ſee the light; theſe men, with the <hi>Jews,</hi> have framed to themſelves a Queen of Heaven, giving that ſtile to the Uirgin <hi>Mary,</hi> calling upon her in time of trouble, Praying her Divine worſhip; and in their Roſary, and other books, Blaſpemouſly At<g ref="char:EOLhyphen"/>tribute to her, what Prophets have foretold of, or Aſcribe to our Saviour, tho' God has declared himſelf a Jealous God, and that he will not give his Honour to ano<g ref="char:EOLhyphen"/>ther.
+<pb n="13" facs="tcp:150143:9"/>
+And now to make this ſeem no I<g ref="char:EOLhyphen"/>dolitry, they have taken away the fourth Commandment, and devided the fifth in<g ref="char:EOLhyphen"/>to three to make up the number.</p>
+            <p>As for their Crucifixes, Beads, Relicks, Holy Oyl, Holy Waters, <hi>Agnus Dei's,</hi> Bleſſed Roſes, Pardons, Indulgences, Ab<g ref="char:EOLhyphen"/>ſolutions, &amp;c. They are altoge<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her new, and only the Immentions of tourzening Prieſts to pick the pockets of the ſimple lay<g ref="char:EOLhyphen"/>ity, having by that means rather reduced <hi>Popery</hi> to a Trade than a Religion, and as for Auricular confſſion, it was as all Authors of our Church agree, to get into the Cabinet Councils of Princes, that ſo they might the better in all places carry on the intereſt of <hi>Rome,</hi> tho' to the hazard, and ruin of thoſe Princes, in whoſe boſoms they ly like ſnakes, till many times they ſting them to death, holding no blood ſhead a crime that is ſpilt to ear<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y on the inte<g ref="char:EOLhyphen"/>reſt of their Church, this Fatally felt <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the Second of <hi>France,</hi> who was with<g ref="char:EOLhyphen"/>out any provocation kill'd with a Conſe<g ref="char:EOLhyphen"/>crated Daggar in his Royal Tent, Sur<g ref="char:EOLhyphen"/>rounded with his Army by one <hi>Clement, a Jaccobin Moak,</hi> ſent for that purpoſe, tho' under a fained pretence of delivering a Meſſage; and altho' this King was of the Romiſh Communion, yet the Pope
+<pb n="14" facs="tcp:150143:10"/>
+was ſo far from diſſembling it, that he Magnified the Villany, and Cannoniz<g ref="char:EOLhyphen"/>ed the murtherer. By the like fate, and en<g ref="char:EOLhyphen"/>couragement fell <hi>Henry</hi> the fourth of <hi>France,</hi> who was ſtabbed by <hi>Raviliack a Ruffain,</hi> as he was paſſing the ſtreets in his Coach, and we may fear they had too great a hand in the Barbarous Murther of King <hi>Charles</hi> the firſt, &amp;c. But ſhould I paſs into the bloody field of their many fatal Maſſacres, Private Murthers Violation of Faith, Leagues and Daths it would amaze, and ſtartle the reader, to think ſo much wickedneſs ſhould be in men profeſſing Chriſtianity, or ſo much as owning the name of Chriſt, and the better to colour their perſidiouſneſs, when they contrary to the Letters of ſafe conduct, giv<g ref="char:EOLhyphen"/>en them, had burnt the two famous <hi>Bohe<g ref="char:EOLhyphen"/>mian</hi> Martyrs, <hi>Huſs</hi> and <hi>Jerome,</hi> they go a decree paſſed in the Councel of <hi>Conſtance</hi> that no Faith is to be kept with <hi>Heretick</hi> and ſuch they account all that are note o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Church; a taſt of which Queen <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> gave us, who after ſhe had promiſed us Religion and Liberty, was prevail'd with by the wicked Councils of the Prieſts, to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a raging Perſecution be the reward of thoſe who had Seated her on the Throne. In which, during her Reign, ſuffer'd for th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:150143:10"/>
+confeſſion of a Good Faith, five Biſhops Twelve Divines, Eighteen Gentlemen, Eighty four Artificers, One hundred Hus<g ref="char:EOLhyphen"/>band men, ſervants, and labourers Twen<g ref="char:EOLhyphen"/>ty Sir Wives, Twenty Widdows, Nine Uirgins, two Boys, &amp; two Infants, in all, two hundred Eighty ſeven, all of them burnt alive, beſides Sixteen that dyed in Priſon, ſeven ſcourged as unmercifully as <hi>T. O.</hi> and a great many that were found Languiſhing, and Releaſed by Queen <hi>E<g ref="char:EOLhyphen"/>lizabeth.</hi> From which Cruelty and Cru<g ref="char:EOLhyphen"/>cl men, God of his mercy, as he has at pre<g ref="char:EOLhyphen"/>ſent moſt Miraculouſſy done, preſerve and keep theſe, and all other Proteſtant King<g ref="char:EOLhyphen"/>doms, and unite our hearts in the de<g ref="char:EOLhyphen"/>fence of the true Faith and Religion, for the ſake of our Bleſſed Lord and Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt.</p>
+            <closer>Amen, Amen.</closer>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for the Preſervation of the Proteſtant Religion, againſt Popery, <hi>&amp;c.</hi>
+            </head>
+            <p>O Lord God, great and Glorious; whoſe Eys Run too and frow, threw the Earth to behold the ways and Actions of the Sons of men, look upon us thy unworthy ſervants, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of the multitude of thy tender
+<pb n="16" facs="tcp:150143:11"/>
+mereys, ſence about with thy Almighty Arm the Uine that thy own right hand has planted, water it with the dew of heaven, that it may ſpring, and grow up to thy Glory, ſuffer not the wild Bore of the foreſt to Root it up, nor the little foxes to pluck off its render Branthes. Guard thy Church, in the Pu<g ref="char:EOLhyphen"/>rity of Religion, and ſoundneſs of Do<g ref="char:EOLhyphen"/>ctrine againſt the rage and malice of our enemies, and keep her her in perpetual ſafety, for we of our ſelves are nothing but our help alone, reſteth in thee, O God, through the Merits and Meditation of Jeſus Chriſt our Bleſſed Lord and Saviour, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer of thankſgiving, for our Late Miraculous Deliverance from Popery, <hi>&amp;c.</hi>
+            </head>
+            <p>BLeſſed be thy holy name, O Lord God of <hi>Iſrael,</hi> who out of the mul<g ref="char:EOLhyphen"/>titude of thy never failing Compaſſion, has interpoſed thy mercy, and made bare thy Almighty Arm to ſave us from
+<pb n="17" facs="tcp:150143:11"/>
+the Jaws of the Lyon, and the Paw of the Bare that were Roaring againſt us, and ready to devour us, we offer in all humility, our tribute of praiſe and thankſ<g ref="char:EOLhyphen"/>giving to thy Divine Majeſty, for all thy loving kindneſs to wards us; but more eſ<g ref="char:EOLhyphen"/>pecially for Miraculouſly ſaving us at this time, from the Malice and Cruel<g ref="char:EOLhyphen"/>ty of our implacable Enemies, which we beſeech thee to continue towards thy Church and People, that we may ever praiſe and Magnifie thy Holy Name, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>French Perſecutions: <hi>Or,</hi> what Proteſtants muſt expect from <hi>Papiſts,</hi> if <hi>they</hi> get the power over'um.</head>
+            <p>THe Popes of <hi>Rome</hi> when they had no power, and were not arrived at their Greatneſs, were indeed, againſt Perſecuti<g ref="char:EOLhyphen"/>on; but when they had once arrogated to themſelves a Spiritual power that comman<g ref="char:EOLhyphen"/>ded the Temporal, and at length incroach<g ref="char:EOLhyphen"/>ed upon the Civil Juſtice in all Kingdoms where the Roman See, by the inſinuation of the Clergy, could gain Credit, then, and not till then, the bloody Banner was diſ<g ref="char:EOLhyphen"/>played; but to particularize upon the ma<g ref="char:EOLhyphen"/>ny bloody Murthers and Maſſacres, would
+<pb n="18" facs="tcp:150143:12"/>
+be too tedious. It is not unknown to <hi>Eng<g ref="char:EOLhyphen"/>liſh Proteſtants,</hi> that <hi>France</hi> has been the Scourge of <hi>Chriſtendom,</hi> eſpecially that part of it profeſſing the Goſpel in its purity: wherefore the better to give them a light into what muſt be expected if ever a <hi>Popiſh</hi> power prevail, I ſhall inſtance ſome of their Cruelties.</p>
+            <p>In the Reign of <hi>Charles</hi> the ninth, though the <hi>papiſts</hi> and even the King, promiſed the proteſtants the greateſt ſecurity imagina<g ref="char:EOLhyphen"/>ble, yet when they had made them ſupine or fearleſs of the Danger, by many Oaths and promiſes, not only by chance, but by the Kings immediate Order and Decree, they were Murthered and Maſſacred throughout the whole Kingdom; Women were Ripped up alive, young Children daſhed againſt the Pavement, Embrio's torn from the bleeding Womb, Hoary Hairs ſtained with Blood, Churches Robbed, Houſes Fired, Women Raviſhed, Virgins Deflowred, and then Murthered with the moſt exquiſite Torments: And before this ſtream of blood ſtopped, at which the <hi>Pope</hi> extreamly rejoyced, and ſtiled it <hi>The Tri<g ref="char:EOLhyphen"/>umph of the Church,</hi> Two hundred thou<g ref="char:EOLhyphen"/>ſand of all ſorts, Ages and Sex, were ſlain, beſide a greater number that were obliged to lcaye the Country and all they had be<g ref="char:EOLhyphen"/>hind
+<pb facs="tcp:150143:12"/>
+them. The like has hapned at other times, but more eſpecially renewed in time of this preſent King <hi>Lewis,</hi> who (ſet on by the Prieſts) firſt put out an Edict or pro<g ref="char:EOLhyphen"/>clamation, <hi>That all perſons within his Domi<g ref="char:EOLhyphen"/>nion ſhould turn</hi> Roman-Catholicks: Where<g ref="char:EOLhyphen"/>upon all Officers that refuſed were turned out of places of Truſt, even from the <hi>Wag<g ref="char:EOLhyphen"/>goner</hi> to the greateſt <hi>Courtier:</hi> But this the prieſts thought too Gentle, tho' thouſands of Familes was Ruined thereby: whereupon they proceeded to ſet the <hi>Dragoons</hi> to Quar<g ref="char:EOLhyphen"/>ter upon them at Diſcretion, and to uſe them with all manner of Rigor; ſo that co<g ref="char:EOLhyphen"/>ming into the Towns where the <hi>proteſtants</hi> lived, and getting knowledge of their Houſes, they Intruded themſelves, crying, <hi>Turn Catholicks or be Killed:</hi> And when they had thus oppreſt and plundered them eating up all their Proviſions, they fell upon their Perſons torturing them, by hanging up ſome by the Heels in ſmoaking Chim<g ref="char:EOLhyphen"/>neys, ducking others in Wells till almoſt ſtified, keeping ſome from ſleeping by fre<g ref="char:EOLhyphen"/>quent ratling Kettels and braſs Pans over their heads, pricking and toſſing them from one to t'other till they had made them di<g ref="char:EOLhyphen"/>ſtracted, and them force them to ſign an Abjuration; their Children they took from them and thruſt them into Monaſteries,
+<pb n="20" facs="tcp:150143:13"/>
+making one Gentlewoman, after they had raviſhed her before her Husbands face, kill him, by putting a Rapier into her hand, and forcing it into his body, but perceiving that this would not do, whilſt the Miniſters remained, they committed many of them to the Gallies, others they baniſhed, ſending them away without their Wives and Chil<g ref="char:EOLhyphen"/>dren, whom they retained to bring by force to the Roman Religion; thoſe that attemp<g ref="char:EOLhyphen"/>ted to eſcape were many of them ſurpri<g ref="char:EOLhyphen"/>zed and put into dark Dungeons, where for want they miſerably periſhed, their Relations that attempted to relieve them being reduced to the ſame Condition. The Pope all this while encouraging this wick<g ref="char:EOLhyphen"/>edneſs, which how near ſuch uſage comes to primitive Chriſtianity, which according to the word of God, is all Gentleneſs, and the dictates of the Prince of peace, our ever bleſſed Lord and Saviour, I leave to the Proteſtant Reader, and conclude. From Popery and its Tenents, <hi>Good Lord deliver us;</hi> ſeeing even the tender mercies of the wicked are cruel.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150143:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
